@@ -1,0 +1,24 @@
+Titanium mobileでTableviewrowのhascheckプロパティを利用した単一選択のサンプルです。
+
+日本語で書かれたものは見つからなかったので、都道府県の選択を想定してサンプルを作ってみました。
+
+
+参考：http://developer.appcelerator.com/question/128833/row-check--uncheck-others
+
+
+////////////////////////////////////////////////////
+
+Welcome to your Appcelerator Titanium Mobile Project
+
+This is a single window application with a single view - a mostly blank canvas. Requires Titanium Mobile SDK 1.8.0+
+
+----------------------------------
+Stuff our legal folk make us say:
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2009-2012 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
