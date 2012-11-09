@@ -1,7 +1,10 @@
 Titanium mobileでTableviewrowのhascheckプロパティを利用した単一選択のサンプルです。
 
-日本語で書かれたものは見つからなかったので、都道府県の選択を想定してサンプルを作ってみました。
+選択したRowにチェックが付きます。
+Pickerを使わずにアプリ内で選択させる場合などに適しています。
 
+単一選択の実装について日本語で書かれたものは見つからなかったので、
+都道府県の選択を想定してサンプルを作ってみました。
 
 参考：http://developer.appcelerator.com/question/128833/row-check--uncheck-others
 
