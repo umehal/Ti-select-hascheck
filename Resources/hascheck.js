@@ -2,7 +2,7 @@ function hascheck() {
 	//windowの作成
 	var win = Titanium.UI.createWindow({
 		title:'都道府県を選択',
-		backgroundColor: '#eee',
+		backgroundColor: '#eee'
 	});
 	
 	//tableviewの作成
@@ -12,12 +12,12 @@ function hascheck() {
 		left:'0dp',
 		height:Ti.UI.FILL,
 		separatorColor:'#ddd',
-		style: Titanium.UI.iPhone.TableViewStyle.GROUPED,
+		style: Titanium.UI.iPhone.TableViewStyle.GROUPED
 	});
 	
 	//sectionの作成
 	var sec1 = Ti.UI.createTableViewSection({
-		headerTitle:'都道府県を選択',
+		headerTitle:'都道府県を選択'
 	})
 	
 	//checkのついたrowを保存しておく変数
